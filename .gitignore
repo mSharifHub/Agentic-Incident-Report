@@ -9,4 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# env
 .env
+
+# text test files
+*.txt
+
