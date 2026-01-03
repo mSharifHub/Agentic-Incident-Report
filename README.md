@@ -1,6 +1,6 @@
 # Agentic Incident Reporter 
 
-> **Status**: Under Development 
+> **Status**: Under Development ( Folders, files, structure, dependencies, logic to be changed)
 
 An AI-powered administrative intake agent designed to securely and strictly document incident reports. Built with **LangGraph** and **LangChain**, this agent acts as a "Documentation System" rather than a chatbot, strictly following an interview protocol to validate user identity, location, and timelines before filing a report.
 
@@ -43,6 +43,19 @@ Ensure you have [uv](https://github.com/astral-sh/uv) installed.
 # Clone the repository
 git clone [https://github.com/yourusername/Agentic-Incident-Report.git](https://github.com/yourusername/Agentic-Incident-Report.git)
 cd Agentic-Incident-Report
+```
 
 # Create virtual environment and sync dependencies
+```bash
+uv venv
 uv sync
+echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
+```
+
+# Usage
+```bash
+python main.py
+```
+
+
+
