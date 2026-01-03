@@ -35,22 +35,14 @@ incident_bot/
 └── README.md
 
 
-##  Setup
+##  Installation
+
+Ensure you have [uv](https://github.com/astral-sh/uv) installed.
 
 ```bash
-uv venv
+# Clone the repository
+git clone [https://github.com/yourusername/Agentic-Incident-Report.git](https://github.com/yourusername/Agentic-Incident-Report.git)
+cd Agentic-Incident-Report
+
+# Create virtual environment and sync dependencies
 uv sync
-```
-
-##  Environment Variables
-
-```bash
-export OPENAI_API_KEY=your_openai_api_key
-```
-
-
-##  Usage
-
-```bash
-python main.py
-```
