@@ -33,7 +33,7 @@ incident_bot/
 ├── .env                        # API Keys (Not committed)
 ├── pyproject.toml              # Dependencies (uv)
 └── README.md
-
+```
 
 ##  Installation
 
