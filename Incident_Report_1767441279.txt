@@ -1,0 +1,16 @@
+INCIDENT REPORT #1767441279
+========================================
+REPORTING PARTY: Joe Doe
+ADDRESS:         400 Post Street, San Francisco, California
+PHONE:           Unknown
+----------------------------------------
+LOCATION:        Outside by the complex door
+TIME:            Thursday, January 01, 2026
+----------------------------------------
+NARRATIVE:
+Joe was preparing for a bike ride and left his bike at the stairs to lock his apartment. Within one minute, the bike was stolen. There were no witnesses, and no cameras captured the event.
+----------------------------------------
+SUSPECT INFO:    {"race":"Unknown","gender":"Unknown","clothing":"Black hoodie, blue jeans","physical_features":"Long hair, tattoo on forehead, approximately 5 feet tall, appears to be in his 30s, had a metallic object in his pocket"}
+VEHICLE INFO:    {"make":"Unknown","model":"Unknown","color":"Unknown","plate_number":"Unknown"}
+========================================
+STATUS: FILED
